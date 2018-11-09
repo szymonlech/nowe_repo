@@ -1,2 +1,3 @@
-<div style="text-align: right"> ~~Hello World!!!~~ </div>
-
+<html>
+<div style="text-align: center"> ~~Hello World!!!~~ </div>
+</html>
