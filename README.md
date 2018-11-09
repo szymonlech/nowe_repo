@@ -1,2 +1,2 @@
-<div style="text-align: justify"> ~~Hello World!!!~~ </div>
+<div style="text-align: right"> ~~Hello World!!!~~ </div>
 
